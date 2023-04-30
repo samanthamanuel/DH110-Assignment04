@@ -20,8 +20,8 @@ Based on my previous research, I plan to add 2 design features that I believe wi
 
 ### Persona 2: Alysha Macaraeg
 
-![Alysha Persona](.jpg)
-![Alsyha STDFG](.jpg)
+![Alysha Persona](aperson.png)
+![Alsyha STDFG](astdfg.png)
 
 ## User Scenarios + Journey Maps
 
