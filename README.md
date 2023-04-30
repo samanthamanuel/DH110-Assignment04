@@ -39,7 +39,7 @@ This app was heaven sent. Nayeli was able to explore and cook new dishes that ke
 #### Nayeli’s Journey Map
 
 
-![Nayeli Journey](.jpg)
+![Nayeli Journey](njm.png)
 
 
 ### Alysha’s Scenario (Feature: Pre-existing Template)
@@ -55,6 +55,6 @@ Alysha felt a wave of relief and inspiration. Relief, that now there was a way o
 
 #### Alysha’s Journey Map 
 
-![Alysha Journey](.jpg)
+![Alysha Journey](ajm.png)
 
 
