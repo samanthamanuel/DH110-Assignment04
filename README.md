@@ -15,8 +15,8 @@ Based on my previous research, I plan to add 2 design features that I believe wi
 
 ### Persona 1: Nayeli Castro
 
-![Nayeli Persona](.jpg)
-![Nayeli STDFG](.jpg)
+![Nayeli Persona](nperson.jpg)
+![Nayeli STDFG](nstdfg.png)
 
 ### Persona 2: Alysha Macaraeg
 
